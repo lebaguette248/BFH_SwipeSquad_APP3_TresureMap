@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Treasure Map</string>
+    <string name="request_permission_location_permission">Request Location Permission</string>
+</resources>
